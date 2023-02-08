@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sayujya2810
 - 👀 I’m interested in AWS - Web3 - NextJS
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on Web3
 - 📫 How to reach me mail me at sayujyamalkan@gmail.com
 
